@@ -12,7 +12,7 @@ const app = express();
 app.use(express.json()); // Middleware to parse JSON bodies
 
 const corsOption = {
-  origin: "http://localhost:5173",
+  origin: "https://bookwoorm.netlify.app",
   methods: "GET , POST ,PUT , PATCH , DELETE",
   credentials: "true",
 };
