@@ -46,10 +46,9 @@ Before you begin, ensure you have the following prerequisites installed:
 ## Features
 
 - User authentication (registration, login, logout)
-- Book management (add, update, delete, view)
-- Order processing (create, view, update)
+- Cart management (add, remove, view)
 - User profiles
-- Admin functionalities
+- Balance Functionality
 
 ### Frontend Repository
 
